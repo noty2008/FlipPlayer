@@ -1,4 +1,3 @@
-// JSをナメんじゃないわよっ！
 var FlipPlayer = (function () {
   "use strict";
   var t = 0;
