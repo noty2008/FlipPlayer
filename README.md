@@ -18,7 +18,7 @@
 ・コールバック関数を用いた細かい挙動変更
 
 ## 記述サンプル
-```
+```html 
 <div id="flip" onclick="flip.next()"></div>
 <button onclick="flip.prev().stop()">Prev</button>
 <button onclick="flip.stop()">Stop</button>
