@@ -76,7 +76,7 @@ var flip = new FlipPlayer(
 
 ## API
 ### オブジェクト生成
-```
+```js
 var flip = new FlipPlayer(
     id :string,
     frames :[frame :string, ms :number][],
